@@ -1,3 +1,10 @@
+ coderabbit-review
+## 🧪 CodeRabbit Integration
+
+This repository uses **CodeRabbit** to automatically review pull requests,
+suggest code quality improvements, documentation enhancements,
+and enforce open-source best practices.
+
 🤖 AI Code Review Agent
 
 An AI-powered developer tool that automatically reviews staged Git commits to detect security issues, bad practices, and code quality problems before code is committed or merged.
@@ -166,5 +173,3 @@ GitHub: https://github.com/Ravindrabijarniya
 📜 License
 
 MIT License
-
-
